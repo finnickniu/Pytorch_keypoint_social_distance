@@ -50,7 +50,10 @@ The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed. 
     python pose_estimation/detect_social_distance.py
    ```
 ### Result
-![](result.gif)
+
+![Demo](result.gif)
+
+
 
 
 
