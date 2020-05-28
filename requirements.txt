@@ -8,3 +8,9 @@ json_tricks
 scikit-image
 tensorboardX>=1.2
 torchvision
+fliterpy
+cmake
+pillow
+scikit-image
+scikit-learn
+numpy
