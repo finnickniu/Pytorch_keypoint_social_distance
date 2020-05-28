@@ -11,6 +11,5 @@ torchvision
 fliterpy
 cmake
 pillow
-scikit-image
 scikit-learn
 numpy
