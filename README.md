@@ -51,8 +51,7 @@ The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed. 
    ```
 ### Result
 
-![Demo](result.gif)
-
+ ![image]( https://github.com/finnickniu/Pytorch_keypoint_Socialdistance/blob/master/pose_estimation/result.gif)
 
 
 
